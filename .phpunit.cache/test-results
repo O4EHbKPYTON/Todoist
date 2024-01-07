@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ListCommandTest::testItWorks":5,"ListCommandTest::testInvalidDate":7,"ListCommandTest::testEmptyList":5},"times":{"ListCommandTest::testItWorks":0.004,"ListCommandTest::testInvalidDate":0.009,"ListCommandTest::testEmptyList":0.008}}
