@@ -3,6 +3,10 @@
 
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Architecture-FF6F00)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C7780?logo=phpunit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 <img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/3af6eda5-c009-40cc-9080-b8088b0caaed" />
 
