@@ -1,4 +1,7 @@
 # Todoist - Менеджер задач на PHP
+## Проект создан для демонстрации работы с PHP без фреймворков.
+
+
 ![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php)
 ![License](https://img.shields.io/badge/License-MIT-green)
 <img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/3af6eda5-c009-40cc-9080-b8088b0caaed" />
